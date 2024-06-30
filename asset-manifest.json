@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/indicadores-economicos-chile/static/css/main.ff02f4b5.css",
-    "main.js": "/indicadores-economicos-chile/static/js/main.e4e45110.js",
+    "main.js": "/indicadores-economicos-chile/static/js/main.f49d823c.js",
     "index.html": "/indicadores-economicos-chile/index.html",
     "main.ff02f4b5.css.map": "/indicadores-economicos-chile/static/css/main.ff02f4b5.css.map",
-    "main.e4e45110.js.map": "/indicadores-economicos-chile/static/js/main.e4e45110.js.map"
+    "main.f49d823c.js.map": "/indicadores-economicos-chile/static/js/main.f49d823c.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.e4e45110.js"
+    "static/js/main.f49d823c.js"
   ]
 }
